@@ -9,7 +9,7 @@
 2.  运行以下命令：
 
         node scripts/web-server.js
-
+     （如果目录下没有这个文件，可能是工程更新到最新管理模式下，试试npm start来启动工程）
     来启动服务器，启动后命令行终端将会提示**`Http Server running at http://localhost:8000`**,请不要关闭该终端，关闭该终端即关闭了服务器。在浏览器中输入<http://localhost:8000/app/index.html>来访问我们的**phonecat**应用。
 
 现在，在浏览器中您应该已经看到了我们的初始应用，很简单，但说明我们的项目已经可以运行了。
